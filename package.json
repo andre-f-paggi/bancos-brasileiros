@@ -1,0 +1,31 @@
+{
+  "name": "bancos-brasileiros",
+  "version": "1.0.0",
+  "description": "Utilitário para obter lista de bancos brasileiros e seus ícones",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "npx eslint src/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andre-f-paggi/bancos-brasileiros.git"
+  },
+  "keywords": [
+    "bancos",
+    "icones",
+    "js",
+    "brasil"
+  ],
+  "author": "André Franciscato Paggi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andre-f-paggi/bancos-brasileiros/issues"
+  },
+  "homepage": "https://github.com/andre-f-paggi/bancos-brasileiros#readme",
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
+}
